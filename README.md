@@ -2,4 +2,4 @@
 Welcome to my project.
 
 # About Me
-I am too cool for school
+I am too cool for school. Add something.
